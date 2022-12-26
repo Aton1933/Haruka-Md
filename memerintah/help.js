@@ -524,5 +524,5 @@ buat harga sudah saya sedia kan di bawah ya mas/kka
     kalo buat yang pake SIM axis ckup isi paket bronet 01GB 5k+bot permanen+tutorial cara pasang nya🙏
     15k/permanan+tutorial cara bapang bot
     10k/perbula
-    5k/minggu👌`
-    Dan semoga banyak berkan dan dipanjangkan rezeki nya untuk yg udh beli bot anton 🙏🗿
+    5k/minggu👌
+    Dan   semoga   banyak berkan dan dipanjangkan rezekinya untuk yg udh beli bot anton 🙏🗿  '         
