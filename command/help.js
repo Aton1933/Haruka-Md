@@ -36,8 +36,12 @@ ${mundur}
  • Limit Game : ${isCreator ? 'Unlimited' : cekGLimit(sender, gcount, glimit)}
  • Balance : ${toCommas(getBalance(sender, balance))}
  • Role : ${role}
- 
- 
+   YANG MAU SEWA BOT ATAU BELI SC BOT HUBUNGI 083115092814
+▁▂▃▄▅▆▇█﷽ANTON﷽█▇▆▅▄▃▂▁
+‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬⁬⁬⁬⁬⁬⁣⁣⁣⁤⁤⁤‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬⁬⁮⁯▁▂▃▄▅▆▇█﷽ANTON﷽█▇▆▅▄▃▂▁
+▁▂▃▄▅▆▇█﷽ANTON﷽█▇▆▅▄▃▂▁‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬⁬⁮⁯
+▁▂▃▄▅▆▇█﷽ANTON﷽█▇▆▅▄▃▂▁
+▁▂▃▄▅▆▇█﷽ANTON﷽█▇▆▅▄▃▂▁
 *MAIN MENU*${petik}
  • ${prefix}menu
  • ${prefix}infobot
@@ -48,7 +52,7 @@ ${mundur}
  • ${prefix}cekbandwidth
  • ${prefix}cekpremium
  • ${prefix}listpremium
- • ${prefix}listsewa
+ • ${prefix}sewabot
  • ${prefix}speed
  • ${prefix}runtime
  • ${prefix}listbahasa${petik}
@@ -57,8 +61,8 @@ ${mundur}
  • ${prefix}sticker
  • ${prefix}stickerwm
  • ${prefix}smeme
- • ${prefix}toimg
- • ${prefix}tovideo
+ • ${prefix}jadifoto
+ • ${prefix}jadivideo
  • ${prefix}tomp3
  • ${prefix}ttp
  • ${prefix}attp
@@ -71,7 +75,7 @@ ${mundur}
  • ${prefix}translate${petik}
 
 *ANONYMOUS CHATS*${petik}
-• ${prefix}menfess nama|62xxx|pesan
+ • ${prefix}menfess nama|62xxx|pesan
  • ${prefix}anonymous
  • ${prefix}start
  • ${prefix}next
@@ -512,9 +516,14 @@ ${mundur}
 `
 }
 
-exports.donate = (pushname, ownerNumber) => {
+exports.donate = (pushname, ownerNumber) => {6283115092814
     return`Contact  Owner:
-wa.me/${ownerNumber} (Owner)`
+wa.me/${6283115092814} (ANTON)`
 }
 
-exports.sewanya = `List Sewa ubah sendiri di folder command, file help.js 👌`
+exports.sewanya = `harga bot👇
+25k/permanan
+20k/bulan
+10k/minggu
+5k/hari
+buat yg mau beli lengkap full+sc+carapasang+apk termux+mt manejer harga nya 30k doang🙏`
