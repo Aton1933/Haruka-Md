@@ -36,12 +36,8 @@ ${mundur}
  • Limit Game : ${isCreator ? 'Unlimited' : cekGLimit(sender, gcount, glimit)}
  • Balance : ${toCommas(getBalance(sender, balance))}
  • Role : ${role}
-   YANG MAU SEWA BOT ATAU BELI SC BOT HUBUNGI 083115092814
-▁▂▃▄▅▆▇█﷽ANTON﷽█▇▆▅▄▃▂▁
-‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬⁬⁬⁬⁬⁬⁣⁣⁣⁤⁤⁤‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬⁬⁮⁯▁▂▃▄▅▆▇█﷽ANTON﷽█▇▆▅▄▃▂▁
-▁▂▃▄▅▆▇█﷽ANTON﷽█▇▆▅▄▃▂▁‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬⁬⁮⁯
-▁▂▃▄▅▆▇█﷽ANTON﷽█▇▆▅▄▃▂▁
-▁▂▃▄▅▆▇█﷽ANTON﷽█▇▆▅▄▃▂▁
+ 
+ 
 *MAIN MENU*${petik}
  • ${prefix}menu
  • ${prefix}infobot
@@ -52,7 +48,7 @@ ${mundur}
  • ${prefix}cekbandwidth
  • ${prefix}cekpremium
  • ${prefix}listpremium
- • ${prefix}sewabot
+ • ${prefix}sewa
  • ${prefix}speed
  • ${prefix}runtime
  • ${prefix}listbahasa${petik}
@@ -71,11 +67,11 @@ ${mundur}
  • ${prefix}nuliskanan
  • ${prefix}foliokiri
  • ${prefix}foliokanan
- • ${prefix}say
+ • ${prefix}🗿
  • ${prefix}translate${petik}
 
 *ANONYMOUS CHATS*${petik}
- • ${prefix}menfess nama|62xxx|pesan
+• ${prefix}menfess nama|62xxx|pesan
  • ${prefix}anonymous
  • ${prefix}start
  • ${prefix}next
@@ -518,12 +514,15 @@ ${mundur}
 
 exports.donate = (pushname, ownerNumber) => {6283115092814
     return`Contact  Owner:
-wa.me/${6283115092814} (ANTON)`
+wa.me/${6283115092814} (Owner)`
 }
 
-exports.sewanya = `harga bot👇
-25k/permanan
-20k/bulan
-10k/minggu
-5k/hari
-buat yg mau beli lengkap full+sc+carapasang+apk termux+mt manejer harga nya 30k doang🙏`
+exports.sewanya = `buat yang mau sewa bot ANTON hubungi 6283115092814
+amanah bot 100% free limit permanen
+buat harga sudah saya sedia kan di bawah ya mas/kka
+
+    kalo buat yang pake SIM axis ckup isi paket bronet 01GB 5k+bot permanen+tutorial cara pasang nya🙏
+    15k/permanan+tutorial cara bapang bot
+    10k/perbula
+    5k/minggu👌`
+    Dan semoga banyak berkan dan dipanjangkan rezeki nya untuk yg udh beli bot anton 🙏🗿
